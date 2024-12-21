@@ -23,3 +23,11 @@
 - [KISGP](https://github.com/KISGP)
 
 [关于我](https://www.allfather.top/) 
+
+## 开源许可
+
+- [MIT](https://github.com/oh-my-live2d/oh-my-live2d/blob/main/LICENSE)
+
+## 免责声明
+
+本仓库所有模型文件均来源于网络, 仅供参考和学习, 严禁用于任何商业盈利项目, 所有以盈利为目的而使用本仓库的模型资源的行为均与仓库创建者无关, 仓库中每个模型的所有权均属于这个模型的作者或创作团队, 若侵权请联系: 1929783231@qq.com 及时删除
