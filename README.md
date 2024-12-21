@@ -1,4 +1,4 @@
-# 个人历时两周半开发的一款加载live2模型的浏览器插件！效果如图
+# 个人历时两周半开发的一款加载live2模型的浏览器插件！
 ![效果演示](https://github.com/Vita0519/PublicLive2dPlug/blob/master/%E8%AF%B4%E6%98%8E/live2dPlug%E6%BC%94%E7%A4%BA.gif)
 ## live2d看板娘助手
 - [x] 加载插件后，任意网页加载live2d模型
