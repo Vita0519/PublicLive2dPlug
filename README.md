@@ -1,5 +1,5 @@
 # 个人历时两周半开发的一款加载live2模型的浏览器插件！
-![效果演示](https://gitee.com/Vita0519/public-live2d-plug/raw/master/%E8%AF%B4%E6%98%8E/live2dPlug%E6%BC%94%E7%A4%BA.gif)
+![效果演示](https://github.com/Vita0519/PublicLive2dPlug/blob/main/%E8%AF%B4%E6%98%8E/live2dPlug%E6%BC%94%E7%A4%BA.gif)
 ## live2d看板娘助手
 - [x] 加载插件后，任意网页加载live2d模型
 - [x] 可以自定义增删改模型路径，模型名称（支持联系本人代理）
