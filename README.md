@@ -24,6 +24,7 @@
 
 ## 鸣谢
 - [KISGP](https://github.com/KISGP)
+- [Hacxy](https://github.com/oh-my-live2d/oh-my-live2d)
 
 [关于我](https://www.allfather.top/) 
 
