@@ -10,7 +10,7 @@
 - 2、打开浏览器管理扩展，选中开发人员权限，将文件拓展到任意位置以加载
 !(步骤1)[https://github.com/Vita0519/PublicLive2dPlug/blob/master/%E8%AF%B4%E6%98%8E/%E5%8A%A0%E8%BD%BD%E6%8B%93%E5%B1%95.jpg]
 - 3、打开任意网页，使用该插件
-!(步骤2)[]
+!(步骤2)[https://github.com/Vita0519/PublicLive2dPlug/blob/master/%E8%AF%B4%E6%98%8E/%E6%95%88%E6%9E%9C%E5%9B%BE.jpg]
 
 ## 技术栈概述
 - Live2D: 一种用于创建2D角色动画的技术。
