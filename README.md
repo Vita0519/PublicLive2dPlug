@@ -12,6 +12,9 @@
 - 3、打开任意网页，使用该插件
   ![步骤2](https://github.com/Vita0519/PublicLive2dPlug/blob/master/%E8%AF%B4%E6%98%8E/%E6%95%88%E6%9E%9C%E5%9B%BE.jpg)
 
+> [!TIP]
+> 感谢您使用 `Live2dPlug`, 创作不易, 您的 **star** 是我更新的动力.
+
 ## 技术栈概述
 - Live2D: 一种用于创建2D角色动画的技术。
 - HTML/CSS/JavaScript: 用于前端界面设计和交互。
