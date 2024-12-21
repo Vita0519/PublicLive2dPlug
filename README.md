@@ -26,7 +26,7 @@
 
 ## 开源许可
 
-- [MIT](https://github.com/oh-my-live2d/oh-my-live2d/blob/main/LICENSE)
+- [MIT](https://github.com/Vita0519/PublicLive2dPlug/blob/main/LICENSE)
 
 ## 免责声明
 
