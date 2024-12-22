@@ -1,5 +1,5 @@
 # 个人历时两周半开发的一款加载live2模型的浏览器插件！
-![效果演示](https://github.com/Vita0519/PublicLive2dPlug/blob/main/%E8%AF%B4%E6%98%8E/live2dPlug%E6%BC%94%E7%A4%BA.gif)
+![效果演示](说明/live2dPlug演示.gif)
 ## live2d看板娘助手
 - [x] 加载插件后，任意网页加载live2d模型
 - [x] 可以自定义增删改模型路径，模型名称
@@ -8,9 +8,9 @@
 ## 使用说明
 - 1、下载文件
 - 2、打开浏览器管理扩展，选中开发人员权限，将文件拓展到任意位置以加载
-  ![步骤1](https://github.com/Vita0519/PublicLive2dPlug/blob/master/%E8%AF%B4%E6%98%8E/%E5%8A%A0%E8%BD%BD%E6%8B%93%E5%B1%95.jpg)
+  ![步骤1](说明/加载拓展.jpg)
 - 3、打开任意网页，使用该插件
-  ![步骤2](https://github.com/Vita0519/PublicLive2dPlug/blob/master/%E8%AF%B4%E6%98%8E/%E6%95%88%E6%9E%9C%E5%9B%BE.jpg)
+  ![步骤2](说明/效果图.jpg)
 
 > [!TIP]
 > 目前服务器性能低下，可能存在宕机的情况，希望有余力捐赠以支持服务器升级！
