@@ -13,11 +13,16 @@
   ![步骤2](https://github.com/Vita0519/PublicLive2dPlug/blob/master/%E8%AF%B4%E6%98%8E/%E6%95%88%E6%9E%9C%E5%9B%BE.jpg)
 
 > [!TIP]
+> 目前服务器性能低下，可能存在宕机的情况，希望有余力捐赠以支持服务器升级！
+> 此插件的个人代理模型资源等功能将会在后续更新中逐步开放！
 > 感谢您使用 `Live2dPlug`, 创作不易, 您的 **star** 是我更新的动力.
 
 ## 技术栈概述
 - Live2D: 一种用于创建2D角色动画的技术。
 - HTML/CSS/JavaScript: 用于前端界面设计和交互。
+
+## 后续
+- 已通过pyside6实现桌面应用，支持交互、音乐、ocr、番茄时钟、书签等功能，如下：
 
 ## 技术支持
 - [OhMyLive2D](https://oml2d.com/)
