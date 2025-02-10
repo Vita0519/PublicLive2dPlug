@@ -37,7 +37,21 @@
 - [Hacxy](https://github.com/oh-my-live2d/oh-my-live2d)
 - [DrissionPage](https://github.com/g1879)
 
-[关于我](https://www.allfather.top/) 
+[我的博客](https://www.allfather.top/) 
+
+## 联系方式
+
+<div align="center"><table><tbody><tr><td align="center"><b>个人QQ</b><br><img src="https://wmimg.com/i/1119/2025/02/67a96bb8d3ef6.jpg" width="250" alt="作者QQ"><br><b>QQ：154578485</b></td><td align="center"><b>QQ交流群</b><br><img src="https://wmimg.com/i/1119/2025/02/67a96bb8d6457.jpg" width="250" alt="QQ群二维码"><br><small>群内会更新个人练手的python项目</small></td><td align="center"><b>微信赞赏</b><br><img src="https://wmimg.com/i/1119/2024/09/66dd37a5ab6e8.jpg" width="500" alt="微信赞赏码"><br><small>要到饭咧？啊咧？啊咧？不给也没事~ 请随意打赏</small></td><td align="center"><b>支付宝赞赏</b><br><img src="https://wmimg.com/i/1119/2024/09/66dd3d6febd05.jpg" width="300" alt="支付宝赞赏码"><br><small>如果觉得有帮助,来包辣条犒劳一下吧~</small></td></tr></tbody></table></div>
+
+---
+
+### 📚 推荐阅读
+
+-   [无限畅用Cursor 编辑器，四步轻松搞定！](https://www.allfather.top/archives/cursormian-fei-mi-ji-si-bu-jie-suo)
+-   [历时两周半开发的一款加载live2模型的浏览器插件](https://www.allfather.top/archives/live2dkan-ban-niang)
+-   [github优秀开源作品集](https://www.allfather.top/mol2d/)
+
+---
 
 ## 开源许可
 
