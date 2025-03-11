@@ -10,9 +10,6 @@
 - 便捷操作：支持模型拖拽排序和快捷键操作
 - API设置：集成Kimi API，支持自定义API配置
 
-## 目录结构
-（此处未提供具体目录结构内容，若有需要请补充）
-
 ## 安装指南
 
 ### Chrome浏览器安装
@@ -68,8 +65,6 @@
 ## 自定义模型
 目前仅支持以下域名的模型：
 - www.allfather.top
-- model.hacxy.cn
-
 如需添加其他域名的模型，请联系作者。
 
 ## 常见问题解答 (FAQ)
@@ -110,14 +105,6 @@ A: 总结功能基于Kimi API，支持中文、英文等多种语言的内容总
 - 总结功能需要配置有效的Kimi API密钥才能使用
 - API请求可能受到服务商的频率限制
 - 总结结果的质量取决于页面内容的结构和复杂度
-
-## 贡献指南
-欢迎为本项目做出贡献！如果您想参与开发，请按照以下步骤：
-1. Fork本仓库
-2. 创建您的特性分支 (`git checkout -b feature/amazing-feature`)
-3. 提交您的更改 (`git commit -m 'Add some amazing feature'`)
-4. 推送到分支 (`git push origin feature/amazing-feature`)
-5. 提交Pull Request
 
 ## 许可证
 本项目采用MIT许可证 - 详情请查看[LICENSE](LICENSE)文件
