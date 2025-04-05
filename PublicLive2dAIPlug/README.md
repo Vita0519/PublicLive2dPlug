@@ -28,7 +28,7 @@
 
 ## 使用说明
 
-![设置]([说明/api设置.jpg](https://github.com/Vita0519/PublicLive2dPlug/blob/main/%E8%AF%B4%E6%98%8E/api%E8%AE%BE%E7%BD%AE.jpg)) 
+![设置](https://github.com/Vita0519/PublicLive2dPlug/blob/main/%E8%AF%B4%E6%98%8E/api%E8%AE%BE%E7%BD%AE.jpg)
 ![总结效果](说明/summary.jpg)  
 
 ### 基本使用
